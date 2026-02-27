@@ -14,18 +14,10 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,react,nodejs,flutter,git,github,vscode,html,css,js,canva" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajeshwari8835&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -38,12 +30,6 @@
 
 ---
 
-## 📈 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeshwari8835&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ⭐ Thank you for visiting my profile!
